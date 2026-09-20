@@ -1,0 +1,1 @@
+import{t as e}from"./build-report-2Q7nip1y.js";async function n(t){try{let a=t&&t.data!==void 0?t.data:t;let n=a&&a.data!==void 0?a.data:a;let r=e(n);return{ok:!0,report:r,projectId:r.projectId}}catch{return{ok:!1}}}async function r(){return null}export{n as t,r as n};

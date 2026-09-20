@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /j/dashboard
+Disallow: /j/login
+Disallow: /j/projects/
+
+Sitemap: https://ahmedalhazmyid.github.io/j/sitemap.xml
